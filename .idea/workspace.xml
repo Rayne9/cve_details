@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b455fb91-9a15-4d17-87d4-901be845c3f5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1nSiICHkMEnn7NHkpfGj7XD573E" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.nmap_scan">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="cve" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cve_details" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cve" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cve/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cve/spiders/cve_details.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="nmap_scan" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cve" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../nmap" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../nmap/nmap_scan.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.cve_details" />
+      <item itemvalue="Python.nmap_scan" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.nmap_scan" />
+        <item itemvalue="Python.cve_details" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b455fb91-9a15-4d17-87d4-901be845c3f5" name="Default Changelist" comment="" />
+      <created>1626665741383</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626665741383</updated>
+      <workItem from="1626665748226" duration="56000" />
+      <workItem from="1626666005735" duration="940000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="168" y="58" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1626666091418">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="168" y="58" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.0.1304.768@62.0.1304.768" timestamp="1626666091418" />
+    <state width="1244" height="178" key="GridCell.Tab.0.bottom" timestamp="1626666955200">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1244" height="178" key="GridCell.Tab.0.bottom/62.0.1304.768@62.0.1304.768" timestamp="1626666955200" />
+    <state width="1244" height="178" key="GridCell.Tab.0.center" timestamp="1626666955200">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1244" height="178" key="GridCell.Tab.0.center/62.0.1304.768@62.0.1304.768" timestamp="1626666955200" />
+    <state width="1244" height="178" key="GridCell.Tab.0.left" timestamp="1626666955200">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1244" height="178" key="GridCell.Tab.0.left/62.0.1304.768@62.0.1304.768" timestamp="1626666955200" />
+    <state width="1244" height="178" key="GridCell.Tab.0.right" timestamp="1626666955200">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1244" height="178" key="GridCell.Tab.0.right/62.0.1304.768@62.0.1304.768" timestamp="1626666955200" />
+    <state width="1244" height="235" key="GridCell.Tab.1.bottom" timestamp="1626666955192">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1244" height="235" key="GridCell.Tab.1.bottom/62.0.1304.768@62.0.1304.768" timestamp="1626666955192" />
+    <state width="1244" height="235" key="GridCell.Tab.1.center" timestamp="1626666955192">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1244" height="235" key="GridCell.Tab.1.center/62.0.1304.768@62.0.1304.768" timestamp="1626666955192" />
+    <state width="1244" height="235" key="GridCell.Tab.1.left" timestamp="1626666955191">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1244" height="235" key="GridCell.Tab.1.left/62.0.1304.768@62.0.1304.768" timestamp="1626666955191" />
+    <state width="1244" height="235" key="GridCell.Tab.1.right" timestamp="1626666955192">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1244" height="235" key="GridCell.Tab.1.right/62.0.1304.768@62.0.1304.768" timestamp="1626666955192" />
+    <state x="215" y="45" key="SettingsEditor" timestamp="1626665791447">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="215" y="45" key="SettingsEditor/62.0.1304.768@62.0.1304.768" timestamp="1626665791447" />
+    <state x="394" y="227" key="com.intellij.ide.util.TipDialog" timestamp="1626666018173">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="394" y="227" key="com.intellij.ide.util.TipDialog/62.0.1304.768@62.0.1304.768" timestamp="1626666018173" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/cve$cve_details.coverage" NAME="cve_details Coverage Results" MODIFIED="1626666101176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cve/spiders" />
+    <SUITE FILE_PATH="coverage/cve$nmap_scan.coverage" NAME="nmap_scan Coverage Results" MODIFIED="1626666209684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../nmap" />
+  </component>
+</project>
